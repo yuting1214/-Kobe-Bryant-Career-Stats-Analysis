@@ -1,3 +1,3 @@
 # Hello
 
-[View IPython notebook](http://nbviewer.ipython.org/github/markdregan/K-Nearest-Neighbors-with-Dynamic-Time-Warping/blob/master/K_Nearest_Neighbor_Dynamic_Time_Warping.ipynb)
+[View IPython notebook](https://nbviewer.jupyter.org/github/yuting1214/-Kobe-Bryant-Career-Stats-Analysis/blob/master/code/Exploratory%20Data%20Analysis%20Kobe.ipynb)
